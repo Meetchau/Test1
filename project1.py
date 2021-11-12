@@ -46,7 +46,5 @@ print(f"you chose{you}")
 if a == None:
     print("The game is tie.")
 
-elif a:
-    print("You won!")
 else:
     print("you lose")
